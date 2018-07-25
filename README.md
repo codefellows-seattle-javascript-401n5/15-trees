@@ -24,7 +24,7 @@
   * **test/** -- directory for holding your programs unit and integration tests
 
 #### Testing  
-  * write at least three test assertions for each method of the Stack and Queue List Data Structures
+  * write at least three test assertions for each method of the Tree Data Structure
   * organize your tests into appropriate describe/it blocks for test output readability
 
 ####  Documentation  
